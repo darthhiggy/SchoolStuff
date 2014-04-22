@@ -1,0 +1,10 @@
+Torn
+Heavy
+Light
+Forgotten
+Damaged
+Keen
+Hardend
+Chipped
+Black
+White
